@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Warung Indonesia</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="share">share</string>
+    <string name="favorite">favorite</string>
+    <string name="detail">Menjual berbagai jenis masakan rumahan dengan harga miring,
+        tidak heran jika tempat makan yang satu ini menjadi favorit banyak orang,
+        terutama dari golongan ekonomi menengah ke bawah.
+        Penjual menyediakan banyak alternatif lauk yang bisa dipilih pembeli,
+        dan tentu saja dengan harga yang bervariasi.</string>
+</resources>
